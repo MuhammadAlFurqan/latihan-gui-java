@@ -19,4 +19,4 @@ Program menampilkan form input nama, tombol untuk menyapa, dan tombol reset.
 
 ## Screenshot
 
-![Screenshot](screenshot hasil GUI.png)
+![Screenshot](screenshotHasilGUI.png)
